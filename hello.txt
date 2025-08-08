@@ -1,2 +1,2 @@
 Bridge test passed — GPT ready.
-Powered by Rich Media Empire.
+This bridge is working.
